@@ -1,0 +1,60 @@
+
+
+main {
+    width: 100vh;
+    height: 100vh;
+    position: relative;
+    /* background-image: url("../testProject/images/formes-portfolio1.png"), url("../testProject/images/formes-portfolio2.png"), url("../testProject/images/formes-portfolio3.png"); 
+    background-size: 100%;
+    background-position-y: left;
+    /* background-repeat: no-repeat; */
+}
+
+#forme1 {
+    width: 70%;
+    position: absolute; 
+    top: -2%;
+}
+#forme2 {
+    position: absolute;
+    width:100%;
+    top: 70%;
+    left: 20%;
+}
+
+#forme3 {
+    position: absolute;
+    width:100%;
+    top: 65%;
+    left: 77%;
+    opacity: 70%;
+}
+
+p {
+    font-family: 'Bai Jamjuree', sans-serif;
+    position: absolute;
+    
+}
+#presentation {
+    top: 45%;
+    left: 40%;
+    font-size: 1.5em;
+    width: 100%;
+}
+
+#hello {
+    top:50%;
+    font-size: 3em;
+    color: #78838A;
+}
+
+#MR {
+    font-size: 4em;
+}
+
+#jeSuis {
+    top: 55%;
+    left: 65%;
+    font-size: 2em;
+    color: #78838A;
+}
