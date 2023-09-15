@@ -409,13 +409,13 @@ section {
 
 
 /*--------------------------------------------------------------
-# Portfolio
+# Projets
 --------------------------------------------------------------*/
-.portfolio .icon-box {
+.projets .icon-box {
   margin-bottom: 20px;
 }
 
-.portfolio .icon {
+.projets .icon {
   float: left;
   display: flex;
   align-items: center;
@@ -429,40 +429,40 @@ section {
   margin-right: 20px;
 }
 
-.portfolio .icon i {
+.projets .icon i {
   color: #fff;
   font-size: 24px;
   line-height: 0;
   
 }
 
-.portfolio .icon-box:hover .icon {
+.projets .icon-box:hover .icon {
   background: #fff;
   
 }
 
-.portfolio .icon-box:hover .icon i {
+.projets .icon-box:hover .icon i {
   color: #149ddd;
 }
 
-.portfolios .title {
+.projets .title {
   margin-left: 80px;
   font-weight: 700;
   margin-bottom: 15px;
   font-size: 18px;
 }
 
-.portfolio .title a {
+.projets .title a {
   color: #343a40;
   /* margin-left: 20px; */
   
 }
 
-.portfolio .title a:hover {
+.projets .title a:hover {
   color: #149ddd;
 }
 
-.portfolio .description {
+.projets .description {
   margin-left: 80px;
   line-height: 24px;
   font-size: 14px;
